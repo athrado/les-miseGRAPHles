@@ -6,7 +6,7 @@ This is a visualization and analysis of a graph representing the character conne
 
 **Note**
 
-The graph (saved as file [*jean.data*](https://people.sc.fsu.edu/~jburkardt/datasets/sgb/sgb.html )) was created by Professor Donald Knuth, as part of the Stanford Graph Base (SGB). The file contains some errors, for instance Fantine and her daughter Cosette show no connection in the graph. However, since this dataset has been used in many contexts by many data scientists it supposed to remain [permanently frozen](https://www-cs-faculty.stanford.edu/~knuth/sgb.html) in order to provide a consistent reference. For practicing graph analysis and visualization the dataset is very suitable.
+The graph (saved as file [*jean.dat*](https://people.sc.fsu.edu/~jburkardt/datasets/sgb/sgb.html )) was created by Professor Donald Knuth, as part of the Stanford Graph Base (SGB). The file contains some errors, for instance Fantine and her daughter Cosette show no connection in the graph. However, since this dataset has been used by many data scientists as a default dataset, it is supposed to remain [permanently frozen](https://www-cs-faculty.stanford.edu/~knuth/sgb.html) in order to provide a consistent reference. For practicing graph analysis and visualization the dataset is very suitable.
 
 
 
