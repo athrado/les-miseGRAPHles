@@ -2,7 +2,7 @@
 
 This is a visualization and analysis of a graph representing the character connections in Victor Hugo's famous work *Les Misérables*. I have used *python-igraph* for this project. I have commented my work and my analysis in German (except for the code) but I will shortly provide an English version. 
 
-<img style="float: left; zoom: 60%;" src="miserables_network.pdf">
+<img style="float: left; zoom: 90%;" src="miserables_network.png">
 
 **Note**
 
